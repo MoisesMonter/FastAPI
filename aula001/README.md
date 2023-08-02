@@ -14,7 +14,7 @@ Primeiros passos com FastApi
 1. Crie Primeiamente seu ambiente virtual **python -m venv venv**
     - Rodando Windows
         ```bash 
-            venv/Scripts/activate
+        venv/Scripts/activate
         ```
     - Rodando Linux
         ```bash
